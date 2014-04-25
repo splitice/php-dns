@@ -1,5 +1,5 @@
 <?php
-namespace X4B\Utility\Net\DNS;
+namespace Splitice\DnsQuery;
 
 
 class DNSAnswer
